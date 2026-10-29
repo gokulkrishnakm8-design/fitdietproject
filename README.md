@@ -4,7 +4,7 @@ FitDiet is a diet and fitness application designed to help users maintain a heal
 
 ## Features
 
-* Personalized diet plans
+* Personalized diet prep
 * Healthy food and nutrition guidance
 * Fitness and exercise recommendations
 * Daily health and fitness tracking
